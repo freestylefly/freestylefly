@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi，我是苍何，曾就职于蚂蚁集团、科大讯飞等，喜欢折腾技术，想做小而美的产品，做有价值的事情。
+- 🔭 I’m currently working on chongqing
+- 🌱 I’m currently learning cloud
+- 👯 I’m looking to collaborate on laigeoffer
+- 🤔 I’m looking for help with laigeoffer
+- 💬 Ask me about laigeoffer
+- 📫 How to reach me: 微信搜：苍何
+- 😄 Pronouns: 越努力，越幸运
+- ⚡ Fun fact: 越努力，越幸运
