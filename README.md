@@ -24,9 +24,7 @@
 
 ### 今年汇总(This year's summary) ✨
 
-[![苍何的 GitHub](https://github-readme-stats.vercel.app/api?username=freestylefly&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)](https://github.com/freestylefly)
-
-[![苍何的 GitHub lm](https://github-readme-stats.vercel.app/api/top-langs/?username=freestylefly&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github.com/freestylefly)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=freestylefly&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freestylefly&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
 
@@ -34,15 +32,16 @@
 
 - 业务项目(business projects)
   - [PmHub 智能项目管理 ⭐⭐⭐⭐⭐](https://github.com/laigeoffer/pmhub)
-- > 基于 SpringCloud Alibaba & LLM 的智能项目管理系统，这个项目旨在让同学们快速掌握微服务/分布式项目的架构设计和开发流程，如果想在校招或者社招中拿到一个满意的 offer，PmHub 将是一个非常 nice 的选择。
+  > 基于 SpringCloud Alibaba & LLM 的智能项目管理系统，这个项目旨在让同学们快速掌握微服务/分布式项目的架构设计和开发流程，如果想在校招或者社招中拿到一个满意的 offer，PmHub 将是一个非常 nice 的选择。
   - [图书管理系统 ⭐⭐⭐](https://github.com/freestylefly/library)
-- > soso移动业务大厅项目，早年开发的项目
+  > 一个好用的图书管理系统项目，早年开发的项目
   - [soso移动业务大厅 ⭐⭐⭐](https://github.com/freestylefly/SOSO)
--  > soso移动业务大厅项目，早年开发的项目
+  > soso移动业务大厅项目，早年开发的项目
+  
  
 
 
-
+<br>
 
 
 - 知识库(knowledge base)
