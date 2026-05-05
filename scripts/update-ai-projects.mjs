@@ -185,11 +185,11 @@ function renderSection(repos) {
   return [
     "Public AI-related repositories, ordered by GitHub stars. Metrics are generated from the GitHub API and refreshed automatically.",
     "",
-    "### Featured Gallery",
+    "### ✨ Featured Gallery",
     "",
     renderCards(repos),
     "",
-    "### Full List",
+    "### 📚 Full List",
     "",
     renderTable(repos),
   ].join("\n");
