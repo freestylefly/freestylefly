@@ -10,13 +10,6 @@ I have 10 years of internet industry experience and am now building WeSight as a
 
 > I am exploring how small teams can ship with agentic workflows: model reasoning, tool use, memory, automation, and human taste working in the same loop.
 
-## Current Focus
-
-- Building WeSight and AI-native products for global markets.
-- Shipping tools for AI coding, MCP integrations, Skills, and personal productivity automation.
-- Writing about AI going global, agent engineering, and hands-on AI product building.
-- Turning daily workflows across code, notes, media, and social platforms into reusable agent capabilities.
-
 ## Skills
 
 ![Agent Engineering](https://img.shields.io/badge/Agent%20Engineering-111827?style=flat-square)
@@ -37,11 +30,6 @@ I have 10 years of internet industry experience and am now building WeSight as a
 ![Obsidian](https://img.shields.io/badge/Obsidian-7c3aed?style=flat-square&logo=obsidian&logoColor=white)
 ![WeChat](https://img.shields.io/badge/WeChat-07c160?style=flat-square&logo=wechat&logoColor=white)
 
-## Featured Work
-
-- **WeSight** - My current AI startup, focused on AI-native products for global users and agent-powered workflows.
-- [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.
-
 ## Open Source AI Projects
 
 <!-- AI_PROJECTS:START -->
@@ -54,7 +42,7 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><strong>awesome-gpt-image-2</strong></a><br>
   <sub>Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.</sub><br><br>
-  <sub>Stars: <strong>3,869</strong> · Forks: <strong>545</strong> · Updated: <strong>2026-05-05</strong></sub>
+  <sub>Stars: <strong>3,880</strong> · Forks: <strong>546</strong> · Updated: <strong>2026-05-05</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/openclaw-wechat"><strong>openclaw-wechat</strong></a><br>
@@ -83,7 +71,7 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/openclaw-stock-kb"><strong>openclaw-stock-kb</strong></a><br>
   <sub>A quantitative investing knowledge base for OpenClaw agents.</sub><br><br>
-  <sub>Stars: <strong>91</strong> · Forks: <strong>22</strong> · Updated: <strong>2026-02-12</strong></sub>
+  <sub>Stars: <strong>92</strong> · Forks: <strong>22</strong> · Updated: <strong>2026-02-12</strong></sub>
 </td>
 </tr>
 </table>
@@ -92,12 +80,12 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 
 | Project | Description | Stars | Forks | Updated |
 | --- | --- | ---: | ---: | --- |
-| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 3,869 | 545 | 2026-05-05 |
+| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 3,880 | 546 | 2026-05-05 |
 | [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably. | 1,643 | 340 | 2026-02-13 |
 | [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,467 | 328 | 2026-05-01 |
 | [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 538 | 61 | 2025-05-18 |
 | [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 222 | 60 | 2026-04-14 |
-| [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 91 | 22 | 2026-02-12 |
+| [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 92 | 22 | 2026-02-12 |
 | [xiaohongshu-skills](https://github.com/freestylefly/xiaohongshu-skills) | RedNote visual content Skills powered by image models. | 83 | 7 | 2026-01-26 |
 | [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 30 | 5 | 2026-02-19 |
 | [aizaobao](https://github.com/freestylefly/aizaobao) | Daily AI tech briefing pipeline with text and voice generation. | 27 | 7 | 2026-01-12 |
@@ -112,9 +100,23 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 | [glm_image_platform](https://github.com/freestylefly/glm_image_platform) | A GLM-Image generation platform for AI image experiments. | 4 | 2 | 2026-01-14 |
 <!-- AI_PROJECTS:END -->
 
+## Current Focus
+
+- Building WeSight and AI-native products for global markets.
+- Shipping tools for AI coding, MCP integrations, Skills, and personal productivity automation.
+- Writing about AI going global, agent engineering, and hands-on AI product building.
+- Turning daily workflows across code, notes, media, and social platforms into reusable agent capabilities.
+
+## Featured Work
+
+- **WeSight** - My current AI startup, focused on AI-native products for global users and agent-powered workflows.
+- [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.
+
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/freestylefly)
+Generated by [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) and refreshed automatically.
+
+![GitHub Profile Summary](./profile-summary-card-output/github/0-profile-details.svg)
 
 ## What I'm Doing
 
