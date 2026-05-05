@@ -1,65 +1,145 @@
+# Hi, I'm Canghe
 
-## 👋 Hi，我是苍何！
+Founder of WeSight | AI/Agent engineer | Microsoft MVP
 
-- 曾就职于蚂蚁集团、科大讯飞等，喜欢折腾技术，热爱开源。做小而美的产品，做有价值的事情是我的目标。（Creating small but beautiful products and engaging in valuable activities are my goals 🐵）
-- 🏡 作品： <a href="https://github.com/laigeoffer/pmhub" target="_blank">PmHub智能项目管理🔥</a> | <a href="https://github.com/laigeoffer/laigeoffer" target="_blank">来个offer✨</a>| <a href="https://github.com/freestylefly/CodeCanvas" target="_blank">不止于Java🔍</a> | <a href="https://github.com/freestylefly/library" target="_blank">图书管理系统🚀</a> | <a href="https://github.com/freestylefly/SOSO" target="_blank">soso移动业务大厅✅</a> 
-- :pencil: 博客：[CSDN💬](https://blog.csdn.net/qq_43270074?spm=1000.2115.3001.5343)、[掘金💤](https://juejin.cn/user/588993963763405) 
-- 微信搜「苍何」，回复00,获取计算机硬核学习资料，跳槽、校招稳了🔥
+I have 10 years of internet industry experience and am now building WeSight as an AI entrepreneur. I am a top AI blogger in China, focused on AI going global, AI coding, intelligent agents, MCP, and Skills.
 
+[![Website](https://img.shields.io/badge/Website-canghe.ai-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://canghe.ai)
+[![X](https://img.shields.io/badge/X-@canghe-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/canghe)
+[![GitHub](https://img.shields.io/badge/GitHub-freestylefly-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/freestylefly)
 
-### ✨ 我的技能(my skills)   
+> I am exploring how small teams can ship with agentic workflows: model reasoning, tool use, memory, automation, and human taste working in the same loop.
 
-![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
-![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
-![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
-![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
-![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+## Current Focus
 
+- Building WeSight and AI-native products for global markets.
+- Shipping tools for AI coding, MCP integrations, Skills, and personal productivity automation.
+- Writing about AI going global, agent engineering, and hands-on AI product building.
+- Turning daily workflows across code, notes, media, and social platforms into reusable agent capabilities.
 
+## Skills
 
+![Agent Engineering](https://img.shields.io/badge/Agent%20Engineering-111827?style=flat-square)
+![AI Coding](https://img.shields.io/badge/AI%20Coding-2563eb?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-0f766e?style=flat-square)
+![Skills](https://img.shields.io/badge/Skills-7c3aed?style=flat-square)
+![LLM Apps](https://img.shields.io/badge/LLM%20Apps-f97316?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9333ea?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-334155?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0891b2?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-d97706?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111827?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7c3aed?style=flat-square&logo=obsidian&logoColor=white)
+![WeChat](https://img.shields.io/badge/WeChat-07c160?style=flat-square&logo=wechat&logoColor=white)
 
+## Featured Work
 
-### 开发的项目(developed projects)
+- **WeSight** - My current AI startup, focused on AI-native products for global users and agent-powered workflows.
+- [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.
 
-- 业务项目(business projects)
-  - [PmHub 智能项目管理 ⭐⭐⭐⭐⭐](https://github.com/laigeoffer/pmhub)
-  > 基于 SpringCloud Alibaba & LLM 的智能项目管理系统，这个项目旨在让同学们快速掌握微服务/分布式项目的架构设计和开发流程，如果想在校招或者社招中拿到一个满意的 offer，PmHub 将是一个非常 nice 的选择。
-  - [图书管理系统 ⭐⭐⭐](https://github.com/freestylefly/library)
-  > 一个好用的图书管理系统项目，早年开发的项目
-  - [soso移动业务大厅 ⭐⭐⭐](https://github.com/freestylefly/SOSO)
-  > soso移动业务大厅项目，早年开发的项目
-  
- 
+## Open Source AI Projects
 
+<!-- AI_PROJECTS:START -->
+Public AI-related repositories, ordered by GitHub stars. Metrics are generated from the GitHub API and refreshed automatically.
 
-<br>
+### Featured Gallery
 
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><strong>awesome-gpt-image-2</strong></a><br>
+  <sub>Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.</sub><br><br>
+  <sub>Stars: <strong>3,869</strong> · Forks: <strong>545</strong> · Updated: <strong>2026-05-05</strong></sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/freestylefly/openclaw-wechat"><strong>openclaw-wechat</strong></a><br>
+  <sub>A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably.</sub><br><br>
+  <sub>Stars: <strong>1,643</strong> · Forks: <strong>340</strong> · Updated: <strong>2026-02-13</strong></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/freestylefly/director_ai"><strong>director_ai</strong></a><br>
+  <sub>AI comic and video creation app for scripts, storyboards, and generated video.</sub><br><br>
+  <sub>Stars: <strong>1,467</strong> · Forks: <strong>328</strong> · Updated: <strong>2026-05-01</strong></sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/freestylefly/mcp-server-weread"><strong>mcp-server-weread</strong></a><br>
+  <sub>A WeRead MCP server that brings reading data into agent workflows.</sub><br><br>
+  <sub>Stars: <strong>538</strong> · Forks: <strong>61</strong> · Updated: <strong>2025-05-18</strong></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/freestylefly/canghe-skills"><strong>canghe-skills</strong></a><br>
+  <sub>A growing Skills collection for agent productivity, content automation, and daily AI workflows.</sub><br><br>
+  <sub>Stars: <strong>222</strong> · Forks: <strong>60</strong> · Updated: <strong>2026-04-14</strong></sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/freestylefly/openclaw-stock-kb"><strong>openclaw-stock-kb</strong></a><br>
+  <sub>A quantitative investing knowledge base for OpenClaw agents.</sub><br><br>
+  <sub>Stars: <strong>91</strong> · Forks: <strong>22</strong> · Updated: <strong>2026-02-12</strong></sub>
+</td>
+</tr>
+</table>
 
-- 知识库(knowledge base)
-  - [CodeCanvas自学编程学习笔记 ⭐⭐⭐⭐⭐](https://github.com/freestylefly/CodeCanvas)
-   > 一份小白自学编程的硬核学习笔记，见证从土木小白到编程大佬的转行过程
+### Full List
 
+| Project | Description | Stars | Forks | Updated |
+| --- | --- | ---: | ---: | --- |
+| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 3,869 | 545 | 2026-05-05 |
+| [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably. | 1,643 | 340 | 2026-02-13 |
+| [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,467 | 328 | 2026-05-01 |
+| [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 538 | 61 | 2025-05-18 |
+| [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 222 | 60 | 2026-04-14 |
+| [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 91 | 22 | 2026-02-12 |
+| [xiaohongshu-skills](https://github.com/freestylefly/xiaohongshu-skills) | RedNote visual content Skills powered by image models. | 83 | 7 | 2026-01-26 |
+| [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 30 | 5 | 2026-02-19 |
+| [aizaobao](https://github.com/freestylefly/aizaobao) | Daily AI tech briefing pipeline with text and voice generation. | 27 | 7 | 2026-01-12 |
+| [12306-mcp](https://github.com/freestylefly/12306-mcp) | An MCP server for China Railway ticket search workflows. | 16 | 2 | 2025-05-28 |
+| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 9 | 1 | 2026-05-03 |
+| [doubao-image-process](https://github.com/freestylefly/doubao-image-process) | A Doubao API-based image analysis and streaming chat tool. | 9 | 4 | 2025-09-01 |
+| [cursor-custom-agents-rules-generator](https://github.com/freestylefly/cursor-custom-agents-rules-generator) | A generator for Cursor rules and custom AI coding workflows. | 8 | 8 | 2025-07-14 |
+| [obclaw](https://github.com/freestylefly/obclaw) | An AI-powered Obsidian assistant for notes, knowledge capture, and personal workflows. | 7 | 1 | 2026-04-30 |
+| [obsidian-content-remix](https://github.com/freestylefly/obsidian-content-remix) | An Obsidian plugin that remixes notes into platform-native content with AI models. | 6 | 4 | 2025-11-11 |
+| [third-image-skill](https://github.com/freestylefly/third-image-skill) | A third-party image generation Skill for AI visual workflows. | 6 | 1 | 2026-02-19 |
+| [fullstack-website-builder-skill](https://github.com/freestylefly/fullstack-website-builder-skill) | A Skill that turns a one-line idea into a full-stack website scaffold. | 5 | 1 | 2026-04-14 |
+| [glm_image_platform](https://github.com/freestylefly/glm_image_platform) | A GLM-Image generation platform for AI image experiments. | 4 | 2 | 2026-01-14 |
+<!-- AI_PROJECTS:END -->
 
+## GitHub Activity
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/freestylefly)
 
-### 🎉 Get in touch
+## What I'm Doing
 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/freestylefly)
-### 交个朋友 👬🏻
+- **Living in the agent era** - Building tools that make AI coworkers more useful in real workflows.
+- **Writing about AI going global** - Sharing practical lessons on AI products, distribution, and developer workflows.
+- **Rapid prototyping** - Turning ideas into working products, then turning repeatable parts into agents.
+- **Connecting ecosystems** - Helping Chinese AI builders reach global developer communities.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+## Philosophy
 
-- 🔭 I’m currently working on chongqing
-- 🌱 I’m currently learning cloud
-- 👯 I’m looking to collaborate on laigeoffer
-- 🤔 I’m looking for help with laigeoffer
-- 💬 Ask me about laigeoffer
-- 📫 How to reach me: 微信搜：苍何
-- 😄 Pronouns: 越努力，越幸运
-- ⚡ Fun fact: 越努力，越幸运
+> Ship useful AI tools, document the path, and make agents feel less like demos and more like teammates.
+
+## Connect
+
+[![Website](https://img.shields.io/badge/-canghe.ai-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://canghe.ai)
+[![X](https://img.shields.io/badge/-@canghe-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/canghe)
+[![GitHub](https://img.shields.io/badge/-freestylefly-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/freestylefly)
+[![CSDN](https://img.shields.io/badge/-CSDN-c32136?style=flat-square)](https://canghe.blog.csdn.net/)
+[![Zhihu](https://img.shields.io/badge/-Zhihu-1677ff?style=flat-square)](https://www.zhihu.com/people/canghecode)
+[![WeChat](https://img.shields.io/badge/-WeChat-07c160?style=flat-square&logo=wechat&logoColor=white)](#wechat-community)
+
+## WeChat Community
+
+Scan the QR code below or search `Canghe` on WeChat. Reply `AI` to join the WeChat group and exchange ideas with 20,000+ AI geeks.
+
+<p>
+  <img src="./assets/wechat-qr.png" alt="WeChat QR code for Canghe official account" width="640">
+</p>
