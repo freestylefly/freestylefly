@@ -42,36 +42,36 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><strong>awesome-gpt-image-2</strong></a><br>
   <sub>Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.</sub><br><br>
-  <sub>Stars: <strong>4,855</strong> · Forks: <strong>675</strong> · Updated: <strong>2026-05-09</strong></sub>
+  <sub>Stars: <strong>4,972</strong> · Forks: <strong>691</strong> · Updated: <strong>2026-05-11</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/openclaw-wechat"><strong>openclaw-wechat</strong></a><br>
   <sub>A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably.</sub><br><br>
-  <sub>Stars: <strong>1,651</strong> · Forks: <strong>343</strong> · Updated: <strong>2026-02-13</strong></sub>
+  <sub>Stars: <strong>1,650</strong> · Forks: <strong>343</strong> · Updated: <strong>2026-02-13</strong></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/director_ai"><strong>director_ai</strong></a><br>
   <sub>AI comic and video creation app for scripts, storyboards, and generated video.</sub><br><br>
-  <sub>Stars: <strong>1,481</strong> · Forks: <strong>334</strong> · Updated: <strong>2026-05-01</strong></sub>
+  <sub>Stars: <strong>1,486</strong> · Forks: <strong>335</strong> · Updated: <strong>2026-05-01</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/mcp-server-weread"><strong>mcp-server-weread</strong></a><br>
   <sub>A WeRead MCP server that brings reading data into agent workflows.</sub><br><br>
-  <sub>Stars: <strong>542</strong> · Forks: <strong>61</strong> · Updated: <strong>2025-05-18</strong></sub>
+  <sub>Stars: <strong>543</strong> · Forks: <strong>61</strong> · Updated: <strong>2025-05-18</strong></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/canghe-skills"><strong>canghe-skills</strong></a><br>
   <sub>A growing Skills collection for agent productivity, content automation, and daily AI workflows.</sub><br><br>
-  <sub>Stars: <strong>242</strong> · Forks: <strong>63</strong> · Updated: <strong>2026-04-14</strong></sub>
+  <sub>Stars: <strong>244</strong> · Forks: <strong>63</strong> · Updated: <strong>2026-04-14</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/openclaw-stock-kb"><strong>openclaw-stock-kb</strong></a><br>
   <sub>A quantitative investing knowledge base for OpenClaw agents.</sub><br><br>
-  <sub>Stars: <strong>95</strong> · Forks: <strong>24</strong> · Updated: <strong>2026-02-12</strong></sub>
+  <sub>Stars: <strong>99</strong> · Forks: <strong>24</strong> · Updated: <strong>2026-02-12</strong></sub>
 </td>
 </tr>
 </table>
@@ -80,20 +80,20 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 
 | Project | Description | Stars | Forks | Updated |
 | --- | --- | ---: | ---: | --- |
-| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 4,855 | 675 | 2026-05-09 |
-| [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably. | 1,651 | 343 | 2026-02-13 |
-| [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,481 | 334 | 2026-05-01 |
-| [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 542 | 61 | 2025-05-18 |
-| [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 242 | 63 | 2026-04-14 |
-| [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 95 | 24 | 2026-02-12 |
+| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 4,972 | 691 | 2026-05-11 |
+| [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably. | 1,650 | 343 | 2026-02-13 |
+| [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,486 | 335 | 2026-05-01 |
+| [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 543 | 61 | 2025-05-18 |
+| [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 244 | 63 | 2026-04-14 |
+| [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 99 | 24 | 2026-02-12 |
 | [xiaohongshu-skills](https://github.com/freestylefly/xiaohongshu-skills) | RedNote visual content Skills powered by image models. | 84 | 8 | 2026-01-26 |
 | [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 30 | 6 | 2026-02-19 |
+| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 28 | 7 | 2026-05-03 |
 | [aizaobao](https://github.com/freestylefly/aizaobao) | Daily AI tech briefing pipeline with text and voice generation. | 27 | 7 | 2026-01-12 |
-| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 27 | 6 | 2026-05-03 |
 | [12306-mcp](https://github.com/freestylefly/12306-mcp) | An MCP server for China Railway ticket search workflows. | 16 | 2 | 2025-05-28 |
 | [doubao-image-process](https://github.com/freestylefly/doubao-image-process) | A Doubao API-based image analysis and streaming chat tool. | 9 | 5 | 2025-09-01 |
 | [cursor-custom-agents-rules-generator](https://github.com/freestylefly/cursor-custom-agents-rules-generator) | A generator for Cursor rules and custom AI coding workflows. | 8 | 8 | 2025-07-14 |
-| [obclaw](https://github.com/freestylefly/obclaw) | An AI-powered Obsidian assistant for notes, knowledge capture, and personal workflows. | 7 | 1 | 2026-05-08 |
+| [obclaw](https://github.com/freestylefly/obclaw) | An AI-powered Obsidian assistant for notes, knowledge capture, and personal workflows. | 7 | 1 | 2026-05-11 |
 | [obsidian-content-remix](https://github.com/freestylefly/obsidian-content-remix) | An Obsidian plugin that remixes notes into platform-native content with AI models. | 6 | 4 | 2025-11-11 |
 | [third-image-skill](https://github.com/freestylefly/third-image-skill) | A third-party image generation Skill for AI visual workflows. | 6 | 1 | 2026-02-19 |
 | [fullstack-website-builder-skill](https://github.com/freestylefly/fullstack-website-builder-skill) | A Skill that turns a one-line idea into a full-stack website scaffold. | 5 | 2 | 2026-04-14 |
