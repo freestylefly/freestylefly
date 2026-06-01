@@ -42,7 +42,7 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><strong>awesome-gpt-image-2</strong></a><br>
   <sub>Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.</sub><br><br>
-  <sub>Stars: <strong>6,810</strong> · Forks: <strong>915</strong> · Updated: <strong>2026-05-29</strong></sub>
+  <sub>Stars: <strong>6,856</strong> · Forks: <strong>916</strong> · Updated: <strong>2026-06-01</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/openclaw-wechat"><strong>openclaw-wechat</strong></a><br>
@@ -54,12 +54,12 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/director_ai"><strong>director_ai</strong></a><br>
   <sub>AI comic and video creation app for scripts, storyboards, and generated video.</sub><br><br>
-  <sub>Stars: <strong>1,535</strong> · Forks: <strong>345</strong> · Updated: <strong>2026-05-01</strong></sub>
+  <sub>Stars: <strong>1,538</strong> · Forks: <strong>345</strong> · Updated: <strong>2026-05-01</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/CodexGuide"><strong>CodexGuide</strong></a><br>
   <sub>An open-source Codex guide and knowledge base for Chinese developers.</sub><br><br>
-  <sub>Stars: <strong>1,124</strong> · Forks: <strong>125</strong> · Updated: <strong>2026-05-29</strong></sub>
+  <sub>Stars: <strong>1,195</strong> · Forks: <strong>135</strong> · Updated: <strong>2026-05-29</strong></sub>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/canghe-skills"><strong>canghe-skills</strong></a><br>
   <sub>A growing Skills collection for agent productivity, content automation, and daily AI workflows.</sub><br><br>
-  <sub>Stars: <strong>298</strong> · Forks: <strong>80</strong> · Updated: <strong>2026-04-14</strong></sub>
+  <sub>Stars: <strong>302</strong> · Forks: <strong>80</strong> · Updated: <strong>2026-04-14</strong></sub>
 </td>
 </tr>
 </table>
@@ -80,20 +80,20 @@ Public AI-related repositories, ordered by GitHub stars. Metrics are generated f
 
 | Project | Description | Stars | Forks | Updated |
 | --- | --- | ---: | ---: | --- |
-| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 6,810 | 915 | 2026-05-29 |
+| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 6,856 | 916 | 2026-06-01 |
 | [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably. | 1,666 | 347 | 2026-02-13 |
-| [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,535 | 345 | 2026-05-01 |
-| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 1,124 | 125 | 2026-05-29 |
+| [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,538 | 345 | 2026-05-01 |
+| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 1,195 | 135 | 2026-05-29 |
 | [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 555 | 61 | 2025-05-18 |
-| [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 298 | 80 | 2026-04-14 |
+| [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 302 | 80 | 2026-04-14 |
 | [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 107 | 28 | 2026-02-12 |
 | [xiaohongshu-skills](https://github.com/freestylefly/xiaohongshu-skills) | RedNote visual content Skills powered by image models. | 89 | 8 | 2026-01-26 |
-| [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 41 | 9 | 2026-02-19 |
+| [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 42 | 9 | 2026-02-19 |
 | [aizaobao](https://github.com/freestylefly/aizaobao) | Daily AI tech briefing pipeline with text and voice generation. | 27 | 7 | 2026-01-12 |
 | [12306-mcp](https://github.com/freestylefly/12306-mcp) | An MCP server for China Railway ticket search workflows. | 18 | 3 | 2025-05-28 |
 | [doubao-image-process](https://github.com/freestylefly/doubao-image-process) | A Doubao API-based image analysis and streaming chat tool. | 9 | 5 | 2025-09-01 |
 | [obclaw](https://github.com/freestylefly/obclaw) | An AI-powered Obsidian assistant for notes, knowledge capture, and personal workflows. | 9 | 1 | 2026-05-27 |
-| [cursor-custom-agents-rules-generator](https://github.com/freestylefly/cursor-custom-agents-rules-generator) | A generator for Cursor rules and custom AI coding workflows. | 8 | 8 | 2025-07-14 |
+| [cursor-custom-agents-rules-generator](https://github.com/freestylefly/cursor-custom-agents-rules-generator) | A generator for Cursor rules and custom AI coding workflows. | 8 | 9 | 2025-07-14 |
 | [fullstack-website-builder-skill](https://github.com/freestylefly/fullstack-website-builder-skill) | A Skill that turns a one-line idea into a full-stack website scaffold. | 7 | 3 | 2026-04-14 |
 | [obsidian-content-remix](https://github.com/freestylefly/obsidian-content-remix) | An Obsidian plugin that remixes notes into platform-native content with AI models. | 7 | 4 | 2025-11-11 |
 | [third-image-skill](https://github.com/freestylefly/third-image-skill) | A third-party image generation Skill for AI visual workflows. | 6 | 2 | 2026-02-19 |
