@@ -6,14 +6,6 @@ const OWNER = "freestylefly";
 const README_PATH = "README.md";
 const START_MARKER = "<!-- AI_PROJECTS:START -->";
 const END_MARKER = "<!-- AI_PROJECTS:END -->";
-const FEATURED_GALLERY_NAMES = [
-  "awesome-gpt-image-2",
-  "openclaw-wechat",
-  "director_ai",
-  "wesight",
-  "canghe-skills",
-  "openclaw-stock-kb",
-];
 
 const projects = [
   {
@@ -151,8 +143,7 @@ async function fetchRepo(project) {
 }
 
 function renderCards(repos) {
-  const reposByName = new Map(repos.map((repo) => [repo.name, repo]));
-  const topRepos = FEATURED_GALLERY_NAMES.map((name) => reposByName.get(name)).filter(Boolean);
+  const topRepos = repos.slice(0, 6);
   const rows = [];
 
   for (let index = 0; index < topRepos.length; index += 2) {
@@ -197,7 +188,7 @@ function renderTable(repos) {
 
 function renderSection(repos) {
   return [
-    "Public AI-related repositories, with selected highlights in the gallery and the full list ordered by GitHub stars. Metrics are generated from the GitHub API and refreshed automatically.",
+    "Public AI-related repositories, with both the gallery and full list ordered by GitHub stars. Metrics are generated from the GitHub API and refreshed automatically.",
     "",
     "### ✨ Featured Gallery",
     "",
