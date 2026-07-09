@@ -42,12 +42,12 @@ Public AI-related repositories, with both the gallery and full list ordered by G
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><strong>awesome-gpt-image-2</strong></a><br>
   <sub>Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.</sub><br><br>
-  <sub>Stars: <strong>8,276</strong> · Forks: <strong>1,068</strong> · Updated: <strong>2026-06-30</strong></sub>
+  <sub>Stars: <strong>8,309</strong> · Forks: <strong>1,070</strong> · Updated: <strong>2026-06-30</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/CodexGuide"><strong>CodexGuide</strong></a><br>
   <sub>An open-source Codex guide and knowledge base for Chinese developers.</sub><br><br>
-  <sub>Stars: <strong>2,498</strong> · Forks: <strong>247</strong> · Updated: <strong>2026-07-05</strong></sub>
+  <sub>Stars: <strong>2,526</strong> · Forks: <strong>249</strong> · Updated: <strong>2026-07-05</strong></sub>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ Public AI-related repositories, with both the gallery and full list ordered by G
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/wesight"><strong>wesight</strong></a><br>
   <sub>Open-source desktop AI agent workspace for Claude Code, Codex, OpenClaw, Hermes Agent, and custom LLM routing.</sub><br><br>
-  <sub>Stars: <strong>755</strong> · Forks: <strong>188</strong> · Updated: <strong>2026-06-28</strong></sub>
+  <sub>Stars: <strong>757</strong> · Forks: <strong>188</strong> · Updated: <strong>2026-06-28</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/mcp-server-weread"><strong>mcp-server-weread</strong></a><br>
@@ -80,11 +80,11 @@ Public AI-related repositories, with both the gallery and full list ordered by G
 
 | Project | Description | Stars | Forks | Updated |
 | --- | --- | ---: | ---: | --- |
-| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 8,276 | 1,068 | 2026-06-30 |
-| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 2,498 | 247 | 2026-07-05 |
+| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 8,309 | 1,070 | 2026-06-30 |
+| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 2,526 | 249 | 2026-07-05 |
 | [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably. | 1,669 | 344 | 2026-02-13 |
 | [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,625 | 354 | 2026-05-01 |
-| [wesight](https://github.com/freestylefly/wesight) | Open-source desktop AI agent workspace for Claude Code, Codex, OpenClaw, Hermes Agent, and custom LLM routing. | 755 | 188 | 2026-06-28 |
+| [wesight](https://github.com/freestylefly/wesight) | Open-source desktop AI agent workspace for Claude Code, Codex, OpenClaw, Hermes Agent, and custom LLM routing. | 757 | 188 | 2026-06-28 |
 | [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 561 | 61 | 2025-05-18 |
 | [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 394 | 92 | 2026-06-08 |
 | [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 111 | 28 | 2026-02-12 |
