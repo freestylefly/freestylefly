@@ -42,12 +42,12 @@ Public AI-related repositories, with both the gallery and full list ordered by G
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><strong>awesome-gpt-image-2</strong></a><br>
   <sub>Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.</sub><br><br>
-  <sub>Stars: <strong>33,377</strong> · Forks: <strong>3,214</strong> · Updated: <strong>2026-09-11</strong></sub>
+  <sub>Stars: <strong>33,476</strong> · Forks: <strong>3,225</strong> · Updated: <strong>2026-09-24</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/CodexGuide"><strong>CodexGuide</strong></a><br>
   <sub>An open-source Codex guide and knowledge base for Chinese developers.</sub><br><br>
-  <sub>Stars: <strong>3,633</strong> · Forks: <strong>334</strong> · Updated: <strong>2026-09-11</strong></sub>
+  <sub>Stars: <strong>3,642</strong> · Forks: <strong>334</strong> · Updated: <strong>2026-09-11</strong></sub>
 </td>
 </tr>
 <tr>
@@ -80,14 +80,14 @@ Public AI-related repositories, with both the gallery and full list ordered by G
 
 | Project | Description | Stars | Forks | Updated |
 | --- | --- | ---: | ---: | --- |
-| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 33,377 | 3,214 | 2026-09-11 |
-| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 3,633 | 334 | 2026-09-11 |
+| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 33,476 | 3,225 | 2026-09-24 |
+| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 3,642 | 334 | 2026-09-11 |
 | [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,768 | 368 | 2026-05-01 |
 | [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably. | 1,679 | 336 | 2026-02-13 |
 | [wesight](https://github.com/freestylefly/wesight) | Open-source desktop AI agent workspace for Claude Code, Codex, OpenClaw, Hermes Agent, and custom LLM routing. | 928 | 207 | 2026-09-19 |
 | [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 575 | 60 | 2025-05-18 |
 | [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 456 | 104 | 2026-06-08 |
-| [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 134 | 21 | 2026-02-19 |
+| [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 133 | 21 | 2026-02-19 |
 | [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 120 | 30 | 2026-02-12 |
 | [xiaohongshu-skills](https://github.com/freestylefly/xiaohongshu-skills) | RedNote visual content Skills powered by image models. | 96 | 16 | 2026-01-26 |
 | [aizaobao](https://github.com/freestylefly/aizaobao) | Daily AI tech briefing pipeline with text and voice generation. | 31 | 9 | 2026-01-12 |
