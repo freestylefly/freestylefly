@@ -42,12 +42,12 @@ Public AI-related repositories, with both the gallery and full list ordered by G
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><strong>awesome-gpt-image-2</strong></a><br>
   <sub>Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates.</sub><br><br>
-  <sub>Stars: <strong>35,417</strong> · Forks: <strong>3,353</strong> · Updated: <strong>2026-10-14</strong></sub>
+  <sub>Stars: <strong>35,460</strong> · Forks: <strong>3,354</strong> · Updated: <strong>2026-10-14</strong></sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/CodexGuide"><strong>CodexGuide</strong></a><br>
   <sub>An open-source Codex guide and knowledge base for Chinese developers.</sub><br><br>
-  <sub>Stars: <strong>3,958</strong> · Forks: <strong>355</strong> · Updated: <strong>2026-10-14</strong></sub>
+  <sub>Stars: <strong>3,963</strong> · Forks: <strong>356</strong> · Updated: <strong>2026-10-14</strong></sub>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ Public AI-related repositories, with both the gallery and full list ordered by G
 <td width="50%" valign="top">
   <a href="https://github.com/freestylefly/mcp-server-weread"><strong>mcp-server-weread</strong></a><br>
   <sub>A WeRead MCP server that brings reading data into agent workflows.</sub><br><br>
-  <sub>Stars: <strong>584</strong> · Forks: <strong>61</strong> · Updated: <strong>2025-05-18</strong></sub>
+  <sub>Stars: <strong>585</strong> · Forks: <strong>61</strong> · Updated: <strong>2025-05-18</strong></sub>
 </td>
 </tr>
 </table>
@@ -80,14 +80,14 @@ Public AI-related repositories, with both the gallery and full list ordered by G
 
 | Project | Description | Stars | Forks | Updated |
 | --- | --- | ---: | ---: | --- |
-| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 35,417 | 3,353 | 2026-10-14 |
-| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 3,958 | 355 | 2026-10-14 |
+| [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code for GPT-Image2, with reverse-engineered cases and production-ready prompt templates. | 35,460 | 3,354 | 2026-10-14 |
+| [CodexGuide](https://github.com/freestylefly/CodexGuide) | An open-source Codex guide and knowledge base for Chinese developers. | 3,963 | 356 | 2026-10-14 |
 | [director_ai](https://github.com/freestylefly/director_ai) | AI comic and video creation app for scripts, storyboards, and generated video. | 1,825 | 377 | 2026-05-01 |
 | [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) | A bridge that helps OpenClaw-style agents connect to personal WeChat more reliably. | 1,674 | 336 | 2026-02-13 |
 | [wesight](https://github.com/freestylefly/wesight) | Open-source desktop AI agent workspace for Claude Code, Codex, OpenClaw, Hermes Agent, and custom LLM routing. | 966 | 213 | 2026-10-01 |
-| [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 584 | 61 | 2025-05-18 |
-| [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 473 | 103 | 2026-06-08 |
-| [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 140 | 23 | 2026-02-19 |
+| [mcp-server-weread](https://github.com/freestylefly/mcp-server-weread) | A WeRead MCP server that brings reading data into agent workflows. | 585 | 61 | 2025-05-18 |
+| [canghe-skills](https://github.com/freestylefly/canghe-skills) | A growing Skills collection for agent productivity, content automation, and daily AI workflows. | 475 | 103 | 2026-06-08 |
+| [wechat-article-extractor-skill](https://github.com/freestylefly/wechat-article-extractor-skill) | A Skill for extracting article content and metadata from WeChat URLs. | 141 | 23 | 2026-02-19 |
 | [openclaw-stock-kb](https://github.com/freestylefly/openclaw-stock-kb) | A quantitative investing knowledge base for OpenClaw agents. | 123 | 30 | 2026-02-12 |
 | [xiaohongshu-skills](https://github.com/freestylefly/xiaohongshu-skills) | RedNote visual content Skills powered by image models. | 98 | 17 | 2026-01-26 |
 | [aizaobao](https://github.com/freestylefly/aizaobao) | Daily AI tech briefing pipeline with text and voice generation. | 32 | 9 | 2026-01-12 |
